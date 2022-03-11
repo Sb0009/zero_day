@@ -8,7 +8,7 @@ This is my first repository as a full-stack engineer
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>_Printf Team Project</title>
+   
   </head>
   <body>
     <main>
@@ -59,12 +59,14 @@ Those are the format identifier's needed to write:
 %X | hex integer (uppercase)|
 %% | just the %				|
 
-## We will handle in this project
---- the flags:
---- the field width
---- the precision
---- the length modifiers
---- custom conversion specifiers
+## We handle in this project
+<table><tr><td valign="top" width="50%">
+ the flags:
+- the field width
+- the precision
+- the length modifiers
+- custom conversion specifiers
+</td></tr></table>
 
 
 
