@@ -12,7 +12,7 @@ This is my first repository as a full-stack engineer
   <body>
     <main>
       <h1 style="color: crimson;text-align: center;"> Write our own _printf :smiled:</h1>
-        # 0x11. C - printf
+        ## 0x11. C - printf
  
 
 * [Introduction](#introduction)
@@ -88,14 +88,6 @@ Those are the format identifier's needed to write:
 
 * [_printf overview]()
 * [secrets of printf]()
-
-
-                        <h4> EPICS</h4>
-                        <p>Create a man</p>
-                        <p>Print a simple character</p>
-                        <p>Print a string</p>
-                        <p>Handle %d</p>
-                        <p>Handle %x</p>
 
 ## tests
 
